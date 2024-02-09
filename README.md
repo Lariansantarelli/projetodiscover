@@ -23,4 +23,4 @@ This project is under MIT license. See the file [LICENSE](.github/LICENSE.md) fo
 
 ---
 
-Made with ♥ by Mayk Brito 
+Made with ♥ by Larian DEV 
